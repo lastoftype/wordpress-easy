@@ -10,7 +10,8 @@
         "wpackagist-plugin/advanced-custom-fields": "*",
         "wpackagist-plugin/wordpress-seo": "*",
         "wpackagist-plugin/disqus-comment-system": "dev-trunk",
-        "wpackagist-plugin/w3-total-cache":"*"
+        "wpackagist-plugin/w3-total-cache":"*",
+        "wpackagist-theme/twentyfifteen":"*"
     },
     "autoload": {
         "psr-0": {
